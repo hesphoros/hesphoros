@@ -1,9 +1,6 @@
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
@@ -16,20 +13,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          #  - repo
-          #  - public_repo
-          #  - read:project
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
           user: hesphoros
           template: classic
           base: header, activity, community, repositories, metadata
@@ -76,12 +60,12 @@ jobs:
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
+          plugin_languages_sections: most-used, recent
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
+          plugin_lines_sections: base, history, repositories
           plugin_projects: yes
           plugin_projects_limit: 4
           plugin_reactions: yes
@@ -113,3 +97,5 @@ jobs:
           plugin_topics_mode: icons
           plugin_topics_sort: stars
           plugin_traffic: yes
+          plugin_traffic_limit: 10
+          plugin_traffic_sort: stars
