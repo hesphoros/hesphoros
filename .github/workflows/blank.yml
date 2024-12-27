@@ -38,4 +38,10 @@ jobs:
           plugin_reactions: yes  # 启用反应插件
           plugin_stars: yes  # 启用 Stars 插件
           plugin_topics: yes  # 启用主题插件
+          #new_add after successed version
+          plugin_fortune: yes
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
           config_display: large
