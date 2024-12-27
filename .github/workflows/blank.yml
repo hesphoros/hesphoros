@@ -53,4 +53,12 @@ jobs:
           plugin_traffic: yes #显示仓库的流量数据，例如访问量、克隆数等
           plugin_contributions: yes
           plugin_commit_activity: yes #显示你的提交活动统计信息
+          ## newnnn
+          plugin_steam: yes
+          plugin_steam_achievements_limit: 2
+          plugin_steam_games_limit: 1
+          plugin_steam_playtime_threshold: 2
+          plugin_steam_recent_games_limit: 1
+          plugin_steam_sections: player, most-played, recently-played
+          plugin_steam_user: 76561199533748972
           config_display: large
