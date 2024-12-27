@@ -38,3 +38,4 @@ jobs:
           plugin_reactions: yes  # 启用反应插件
           plugin_stars: yes  # 启用 Stars 插件
           plugin_topics: yes  # 启用主题插件
+          config_display: large
