@@ -2288,7 +2288,7 @@ Use isatty(fileno(stream)) to detect if the output stream is connected to a term
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 163k out of 153m users</span>
+                                    <span class="gh">ranked 163k out of 148m users</span>
                                 </div>
                                 <div class="text">Published 112 public repositories</div>
                             </div>
@@ -2335,7 +2335,7 @@ Use isatty(fileno(stream)) to detect if the output stream is connected to a term
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="11.78 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="12.09 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2357,7 +2357,7 @@ Use isatty(fileno(stream)) to detect if the output stream is connected to a term
                                     <span class="prefix">Super</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 538 times</div>
+                                <div class="text">Repositories have been deployed 539 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2549,7 +2549,7 @@ Use isatty(fileno(stream)) to detect if the output stream is connected to a term
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 4.38m out of 153m users</span>
+                                    <span class="gh">ranked 4.38m out of 148m users</span>
                                 </div>
                                 <div class="text">Followed by 3 users</div>
                             </div>
@@ -2618,7 +2618,7 @@ Use isatty(fileno(stream)) to detect if the output stream is connected to a term
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.03m out of 227m repositories</span>
+                                    <span class="gh">ranked 3.03m out of 216m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
@@ -2697,7 +2697,7 @@ Use isatty(fileno(stream)) to detect if the output stream is connected to a term
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.51m out of 227m repositories</span>
+                                    <span class="gh">ranked 5.51m out of 216m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2851,14 +2851,14 @@ Use isatty(fileno(stream)) to detect if the output stream is connected to a term
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jan 2025, 10:45:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Jan 2025, 11:19:38 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
