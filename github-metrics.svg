@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="3020" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2887" class="large">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1375 Commits
+                            1377 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -203,7 +203,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    223 views in last two weeks
+                                    230 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="535.1896615941782" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="535.1896615941782" y="0" width="83.59532290908005" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="618.7849845032583" y="0" width="67.07292181922655" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="685.8579063224848" y="0" width="58.719450275996564" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="744.5773565984815" y="0" width="58.43428432755627" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="803.0116409260378" y="0" width="54.9295404298998" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="857.9411813559376" y="0" width="44.40067488035738" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="902.341856236295" y="0" width="17.658143763705166" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="535.4114581655393" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="535.4114581655393" y="0" width="83.5471403262527" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="618.958598491792" y="0" width="67.03426240027146" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="685.9928608920635" y="0" width="58.68560562203695" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="744.6784665141005" y="0" width="58.40060403724108" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="803.0790705513416" y="0" width="54.89788020012462" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="857.9769507514661" y="0" width="44.37508326684882" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="902.352034018315" y="0" width="17.647965981685022" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1784,7 +1784,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nauvalazhar/bootstrap-4-login-page</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bootstrap 4 Login Page Template</div>
@@ -1837,7 +1837,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gabime/spdlog</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast C++ logging library.</div>
@@ -2326,7 +2326,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="72.23 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="72.54 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2348,7 +2348,7 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 733 times</div>
+                                <div class="text">Repositories have been deployed 734 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2609,7 +2609,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.03m out of 208m repositories</span>
+                                    <span class="gh">ranked 3.03m out of 216m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
@@ -2688,7 +2688,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.52m out of 208m repositories</span>
+                                    <span class="gh">ranked 5.52m out of 216m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2799,7 +2799,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 11 Jan 2025, 21:58:06
+                            On 11 Jan 2025, 19:10:44
                         </div>
                     </section>
                 </div>
@@ -2809,17 +2809,20 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            refactor(log): 删除旧日志文件并添加内存日志记录功能
+                            refactor(cmake): 更新CMake配置，调整C++标准至C++17，优化编译选项和调试信息设置
+refactor(log): 重构日志功能，修复日志函数并优化日志输出
+refactor(util): 修复lu_evutil_vsnprintf函数，增加输入参数检查
+refactor(main): 重构主函数，优化日志测试代码并移除冗余代码
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">4c1ee68d</span>
-                            <span class="code">build/log/luevent_log.log</span>
+                            <span class="code">16301cac</span>
+                            <span class="code">src/test.log</span>
                             <span class="code">
                                 <span class="snippet additions">++0</span>
-                                <span class="snippet deletions">--11</span>
+                                <span class="snippet deletions">--1</span>
                             </span>
                         </div>
                     </section>
@@ -2827,7 +2830,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,11 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">2025-01-10 19:48:35 ERROR /root/luevent/src/main.c:148: error message error: Permission denied<br /></span><span class="token prefix deleted">-</span><span class="token line">2025-01-10 19:49:13 ERROR /root/luevent/src/main.c:148: error message error: Permission denied<br /></span><span class="token prefix deleted">-</span><span class="token line">2025-01-10 19:50:13 ERROR /root/luevent/src/main.c:148: error message error: Permission denied<br /></span><span class="token prefix deleted">-</span><span class="token line">2025-01-10 19:50:40 ERROR /root/luevent/src/main.c:148: error message error: Permission denied<br /></span><span class="token prefix deleted">-</span><span class="token line">2025-01-10 19:54:03 ERROR /root/luevent/src/main.c:148: error message error: Permission denied<br /></span><span class="token prefix deleted">-</span><span class="token line">2025-01-10 19:56:22 ERROR /root/luevent/src/main.c:148: error message error: Permission denied<br /></span><span class="token prefix deleted">-</span><span class="token line">2025-01-10 19:57:39 ERROR /root/luevent/src/main.c:148: error message error: Permission denied<br /></span><span class="token prefix deleted">-</span><span class="token line">2025-01-10 19:59:23 ERROR /root/luevent/src/main.c:148: error message error: Permission denied<br /></span><span class="token prefix deleted">-</span><span class="token line">2025-01-10 20:00:12 ERROR /root/luevent/src/main.c:148: error message error: Permission denied<br /></span><span class="token prefix deleted">-</span><span class="token line">2025-01-10 20:00:22 ERROR /root/luevent/src/main.c:148: error message error: Unknown error 1000<br /></span><span class="token prefix deleted">-</span><span class="token line">2025-01-10 20:00:42 ERROR /root/luevent/src/main.c:147: error message: Unknown error 1000</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">2025-01-11 13:38:52 ERROR /root/luevent/src/main.c:157: error message</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -2849,7 +2852,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jan 2025, 00:18:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Jan 2025, 01:13:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
