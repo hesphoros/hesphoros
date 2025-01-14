@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="3031" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="3044" class="large">
     <defs>
         <style/>
     </defs>
@@ -2296,7 +2296,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 146k out of 153m users</span>
+                                    <span class="gh">ranked 146k out of 146m users</span>
                                 </div>
                                 <div class="text">Published 119 public repositories</div>
                             </div>
@@ -2343,7 +2343,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="84.01 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="84.32000000000001 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2365,7 +2365,7 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 771 times</div>
+                                <div class="text">Repositories have been deployed 772 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2557,7 +2557,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 4.39m out of 153m users</span>
+                                    <span class="gh">ranked 4.39m out of 146m users</span>
                                 </div>
                                 <div class="text">Followed by 3 users</div>
                             </div>
@@ -2626,7 +2626,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.04m out of 210m repositories</span>
+                                    <span class="gh">ranked 3.04m out of 213m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
@@ -2705,7 +2705,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.52m out of 210m repositories</span>
+                                    <span class="gh">ranked 5.52m out of 213m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2816,7 +2816,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 14 Jan 2025, 01:07:48
+                            On 14 Jan 2025, 01:31:35
                         </div>
                     </section>
                 </div>
@@ -2832,10 +2832,10 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">13d97a20</span>
-                            <span class="code">aboutwindow.h</span>
+                            <span class="code">caf33b30</span>
+                            <span class="code">CMakeLists.txt</span>
                             <span class="code">
-                                <span class="snippet additions">++1</span>
+                                <span class="snippet additions">++2</span>
                                 <span class="snippet deletions">--0</span>
                             </span>
                         </div>
@@ -2844,7 +2844,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -5,6 +5,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">#include &lt;ElaWidget.h&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"><br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">class AboutWindow :public ElaWidget<br /></span><span class="token prefix unchanged">·</span><span class="token line">{<br /></span><span class="token prefix unchanged">·</span><span class="token line">  Q_OBJECT</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -9,6 +9,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">set(CMAKE_CXX_STANDARD 17)<br /></span><span class="token prefix unchanged">·</span><span class="token line">set(CMAKE_CXX_STANDARD_REQUIRED ON)<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">find_package(QT NAMES Qt6 Qt5 REQUIRED COMPONENTS Widgets)<br /></span><span class="token prefix unchanged">·</span><span class="token line">find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Widgets)<br /></span><span class="token prefix unchanged">·</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -2859,14 +2859,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #6023F8">Your fortune: Outlook good</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jan 2025, 02:18:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Jan 2025, 03:11:13 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
