@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="3063" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2983" class="large">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1407 Commits
+                            1409 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="529.6967378125786" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="529.6967378125786" y="0" width="92.64806353975102" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="622.3448013523296" y="0" width="66.05429779697478" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="688.3990991493043" y="0" width="58.84236859521134" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="747.2414677445157" y="0" width="57.546853690501834" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="804.7883214350176" y="0" width="54.095335688320965" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="858.8836571233385" y="0" width="43.72637006687067" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="902.6100271902092" y="0" width="17.389972809790805" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="529.8347226953721" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="529.8347226953721" y="0" width="92.45547781339748" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="622.2902005087695" y="0" width="66.06641456965966" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="688.3566150784292" y="0" width="58.853162436464466" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="747.2097775148937" y="0" width="57.55740988696675" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="804.7671874018604" y="0" width="54.10525875022167" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="858.8724461520821" y="0" width="43.73439108146177" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="902.6068372335438" y="0" width="17.393162766456154" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1740,7 +1740,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lancetw/ebook-1</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of classic computer science books from Internet</div>
@@ -1781,7 +1781,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Shaobin-Jiang/IceNvim</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A beautiful, powerful and customizable neovim config that is blazing fast</div>
@@ -1834,7 +1834,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/googletest</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GoogleTest - Google Testing and Mocking Framework</div>
@@ -2330,7 +2330,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="146.63 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="147.25 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2352,7 +2352,7 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 973 times</div>
+                                <div class="text">Repositories have been deployed 975 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2613,7 +2613,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.04m out of 216m repositories</span>
+                                    <span class="gh">ranked 3.04m out of 229m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
@@ -2692,7 +2692,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.53m out of 216m repositories</span>
+                                    <span class="gh">ranked 5.53m out of 229m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2820,9 +2820,9 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">c2707b61</span>
-                            <span class="code">build/CTestTestfile.cmake</span>
+                            <span class="code">build/googletest/CMakeFiles/progress.marks</span>
                             <span class="code">
-                                <span class="snippet additions">++7</span>
+                                <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--0</span>
                             </span>
                         </div>
@@ -2831,7 +2831,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,7 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"># CMake generated Testfile for <br /></span><span class="token prefix inserted">+</span><span class="token line"># Source directory: /root/codespace/luevent/other/googletest<br /></span><span class="token prefix inserted">+</span><span class="token line"># Build directory: /root/codespace/luevent/other/googletest/build<br /></span><span class="token prefix inserted">+</span><span class="token line"># <br /></span><span class="token prefix inserted">+</span><span class="token line"># This file includes the relevant testing commands required for <br /></span><span class="token prefix inserted">+</span><span class="token line"># testing this directory and lists subdirectories to be tested as well.<br /></span><span class="token prefix inserted">+</span><span class="token line">subdirs("googlemock")</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">4</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -2846,14 +2846,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
+                            <b style="color: #2A56FB">Your fortune: Better not tell you now</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jan 2025, 21:20:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Jan 2025, 22:13:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
