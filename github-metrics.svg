@@ -2317,7 +2317,7 @@ refactor: 移动lu_event_changelist_t定义到lu_evmap.h</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="23.663333333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="23.766666666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2339,7 +2339,7 @@ refactor: 移动lu_event_changelist_t定义到lu_evmap.h</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1229 times</div>
+                                <div class="text">Repositories have been deployed 1230 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2632,7 +2632,7 @@ refactor: 移动lu_event_changelist_t定义到lu_evmap.h</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.05m out of 227m repositories</span>
+                                    <span class="gh">ranked 3.05m out of 232m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
@@ -2711,7 +2711,7 @@ refactor: 移动lu_event_changelist_t定义到lu_evmap.h</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.53m out of 227m repositories</span>
+                                    <span class="gh">ranked 5.53m out of 232m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2822,7 +2822,7 @@ refactor: 移动lu_event_changelist_t定义到lu_evmap.h</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 26 Jan 2025, 01:22:46
+                            On 26 Jan 2025, 23:32:55
                         </div>
                     </section>
                 </div>
@@ -2832,14 +2832,14 @@ refactor: 移动lu_event_changelist_t定义到lu_evmap.h</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            fix: 更新lu_event-internal.h和lu_event_struct.h中的io map实现方式并修复相关bug
+                            feat: 扩展VSCode设置并优化event结构定义
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">bd862779</span>
-                            <span class="code">src/main.c</span>
+                            <span class="code">d8dadc44</span>
+                            <span class="code">include/lu_event_struct.h</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--0</span>
@@ -2850,7 +2850,7 @@ refactor: 移动lu_event_changelist_t定义到lu_evmap.h</div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -10,6 +10,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">#include "lu_hash_table-internal.h"<br /></span><span class="token prefix unchanged">·</span><span class="token line">#include "lu_log-internal.h"<br /></span><span class="token prefix unchanged">·</span><span class="token line">#include "lu_util.h"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">#include "lu_evmap.h"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">#include "lu_mm_alloc.h"<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">#include "lu_mm_pool_palloc.h"</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -74,6 +74,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">// typedef struct lu_event_callback_s lu_event_callback_t;<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"><br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">typedef struct lu_event_callback_s{<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">  TAILQ_ENTRY(lu_event_callback_s) evcb_active_next;</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -2865,14 +2865,14 @@ refactor: 移动lu_event_changelist_t定义到lu_evmap.h</div>
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #FD4D32">Your fortune: Excellent Luck</b>
+                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jan 2025, 04:15:24 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jan 2025, 05:13:24 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
