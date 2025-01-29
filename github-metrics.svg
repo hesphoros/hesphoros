@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1438 Commits
+                            1440 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="526.1686072555535" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="526.1686072555535" y="0" width="98.76041881059639" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="624.9290260661498" y="0" width="65.55485910323111" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="690.483885169381" y="0" width="58.06381545566509" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="748.5477006250461" y="0" width="57.11174005831122" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="805.6594406833573" y="0" width="53.686319095988985" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="859.3457597793463" y="0" width="43.39575356080359" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="902.7415133401498" y="0" width="17.258486659850117" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="525.4985564422029" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="525.4985564422029" y="0" width="99.24761866550735" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="624.7461751077103" y="0" width="65.47137809342647" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="690.2175532011368" y="0" width="58.548483810882665" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="748.7660370120194" y="0" width="57.03901096092638" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="805.8050479729459" y="0" width="53.61795211004566" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="859.4230000829915" y="0" width="43.340491122930224" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="902.7634912059217" y="0" width="17.23650879407825" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1761,7 +1761,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KoljaB/RealtimeSTT</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.</div>
@@ -2343,7 +2343,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="30.07 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="30.276666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2365,7 +2365,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1291 times</div>
+                                <div class="text">Repositories have been deployed 1293 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2658,7 +2658,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.05m out of 216m repositories</span>
+                                    <span class="gh">ranked 3.05m out of 227m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
@@ -2737,7 +2737,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.54m out of 216m repositories</span>
+                                    <span class="gh">ranked 5.54m out of 227m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2848,7 +2848,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 28 Jan 2025, 11:30:40
+                            On 28 Jan 2025, 23:13:26
                         </div>
                     </section>
                 </div>
@@ -2858,14 +2858,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            refactor: 修正信号初始化函数名和实现细节
+                            feat(api): 添加并完善lu_event_assign函数及信号处理相关改进
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">708e4385</span>
-                            <span class="code">include/lu_evsignal-internal.h</span>
+                            <span class="code">d88e4edb</span>
+                            <span class="code">src/lu_epool.c</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -2876,7 +2876,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -32,7 +32,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">int sigfd_init_(lu_event_base_t *base);<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line"><br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">int lu_evsig_init(lu_event_base_t *base);<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">#ifdef __cplusplus</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -91,7 +91,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">#endif<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">if (sigfd_init_(base) &lt; 0)<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">evsig_init_(base);<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">lu_evsig_init_(base);<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">return (epoll_op);<br /></span><span class="token prefix unchanged">·</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -2891,14 +2891,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #6023F8">Your fortune: Outlook good</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jan 2025, 23:14:25 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Jan 2025, 00:17:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
