@@ -1742,7 +1742,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>archibate/co_http</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">小彭老师特意从零开始研发的一款教学用，基于 C++17 回调函数的异步 HTTP 服务器</div>
@@ -1789,7 +1789,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LiteLoaderQQNT/LiteLoaderQQNT</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞</div>
@@ -2237,7 +2237,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="41.54 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="41.74666666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2259,7 +2259,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1402 times</div>
+                                <div class="text">Repositories have been deployed 1404 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2592,7 +2592,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.05m out of 236m repositories</span>
+                                    <span class="gh">ranked 3.05m out of 237m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
@@ -2671,7 +2671,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.54m out of 236m repositories</span>
+                                    <span class="gh">ranked 5.54m out of 237m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2782,7 +2782,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 1 Feb 2025, 01:00:25
+                            On 31 Jan 2025, 01:10:14
                         </div>
                     </section>
                 </div>
@@ -2792,26 +2792,16 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            feat: 添加编译警告与错误任务列表及相应修复
-fix: 修正lu_changelist-internal.h中的函数声明
-fix: 完善lu_common.h的实现
-fix: 修正lu_event-internal.h中的结构体定义
-fix: 修正lu_event_struct.h中的结构体定义
-fix: 修正lu_evmap.h中的函数声明
-fix: 完善lu_evthread-internal.h中的宏定义
-fix: 修正lu_util.h中的宏定义和函数声明
-fix: 修正lu_changelist.c中的内存释放逻辑
-fix: 修正lu_event.c中的函数实现与声明
-fix: 完善lu_evmap.c中的函数实现
-fix: 修正lu_evsignal.c中的函数调用
-fix: 修正lu_evthread.c中的函数实现与声明
-fix: 移除lu_util.c中的重复内联函数实现
+                            feat: 添加事件优先级设置与删除函数
+style: 移除多余空行
+refactor: 添加错误检查并优化代码
+perf: 完善lu_common_timeout_list_s的实现,优化相关结构定义
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">1d1d256c</span>
+                            <span class="code">e3fc8077</span>
                             <span class="code">include/lu_changelist-internal.h</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
@@ -2823,7 +2813,7 @@ fix: 移除lu_util.c中的重复内联函数实现
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -58,6 +58,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">void lu_event_changelist_init(lu_event_changelist_t* ctx);<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">void lu_event_changelist_freemem_(lu_event_changelist_t* changelist);<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">/* Flags for read_change and write_change. */<br /></span><span class="token prefix unchanged">·</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -57,6 +57,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">void lu_event_changelist_init(lu_event_changelist_t* ctx);<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">/* Flags for read_change and write_change. */<br /></span><span class="token prefix unchanged">·</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -2838,14 +2828,14 @@ fix: 移除lu_util.c中的重复内联函数实现
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #2A56FB">Your fortune: Better not tell you now</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Feb 2025, 03:10:07 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Feb 2025, 04:13:56 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
