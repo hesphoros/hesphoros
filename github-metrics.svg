@@ -1768,7 +1768,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>plos-clan/Plant-OS</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple OS used to study made by several students</div>
@@ -2539,7 +2539,7 @@ style(registerdialog.ui): 调整初始页面索引</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.09m out of 235m repositories</span>
+                                    <span class="gh">ranked 3.09m out of 230m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
@@ -2696,7 +2696,7 @@ style(registerdialog.ui): 调整初始页面索引</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Mar 2025, 00:18:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Mar 2025, 01:12:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
