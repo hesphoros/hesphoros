@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2680" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2813" class="large">
     <defs>
         <style/>
     </defs>
@@ -1815,7 +1815,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>maboloshi/github-chinese</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)</div>
@@ -1868,7 +1868,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hesphoros/hesphoros.github.io</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📕 A blog website simulating linux system's GUI.</div>
@@ -2047,7 +2047,7 @@
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                10
+                                                11
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -2087,7 +2087,7 @@
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                10
+                                                11
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -2317,7 +2317,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 7 May 2025, 04:04:20
+                            On 7 May 2025, 22:38:45
                         </div>
                     </section>
                 </div>
@@ -2327,14 +2327,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            format code, update README
+                            update blog PicGo + github + typora
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">21ba8cd1</span>
-                            <span class="code">docs/map.json</span>
+                            <span class="code">cbd6378e</span>
+                            <span class="code">public/map.json</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -2345,7 +2345,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +1 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">[{"name": "Hi there.md", "path": "desktop_Hi_there.json", "lastedittime": 1746456166, "title": "Hi everyone! \ud83d\udc4b", "abstract": "Hello, I\u2019m **hesphoros** \ud83d\udc4b", "size": 247}, {"name": "About This Blog", "path": "", "lastedittime": 1746494786, "size": -1, "children": [{"name": "Some Secrets", "path": "", "lastedittime": 1746494786, "size": -1, "children": [{"name": "No peeking!.md", "path": "desktop_About_This_Blog_Some_Secrets_No_peeking!.json", "lastedittime": 1746380198, "title": "Suprise!", "abstract": "Congratulations on your discovery of this hidden directory!", "size": 136}]}]}]<br /></span></span>\No newline at end of file<br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">[{"name": "Hi there.md", "path": "desktop_Hi_there.json", "lastedittime": 1746561436, "title": "Hi everyone! \ud83d\udc4b", "abstract": "Hello, I\u2019m hesphoros \ud83d\udc4b", "size": 250}, {"name": "About This Blog", "path": "", "lastedittime": 1746496425, "size": -1, "children": [{"name": "Some Secrets", "path": "", "lastedittime": 1746496425, "size": -1, "children": [{"name": "No peeking!.md", "path": "desktop_About_This_Blog_Some_Secrets_No_peeking!.json", "lastedittime": 1746496425, "title": "Suprise!", "abstract": "Congratulations on your discovery of this hidden directory!", "size": 141}]}]}]<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +1 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">[{"name": "Hi there.md", "path": "desktop_Hi_there.json", "lastedittime": 1746561436, "title": "Hi everyone! \ud83d\udc4b", "abstract": "Hello, I\u2019m hesphoros \ud83d\udc4b", "size": 250}, {"name": "About Git Usage", "path": "", "lastedittime": 1746606096, "size": -1, "children": [{"name": "Git.md", "path": "desktop_About_Git_Usage_Git.json", "lastedittime": 1746625766, "title": "\u5bf9\u6bd4\u8fdc\u7a0b\u4ed3\u5e93\u548c\u672c\u5730\u4ed3\u5e93\u7684\u5dee\u5f02", "abstract": "~~~bash", "size": 243}, {"name": "assets", "path": "", "lastedittime": 1746606095, "size": -1, "children": []}]}, {"name": "About This Blog", "path": "", "lastedittime": 1746496425, "size": -1, "children": [{"name": "Some Secrets", "path": "", "lastedittime": 1746496425, "size": -1, "children": [{"name": "No peeking!.md", "path": "desktop_About_This_Blog_Some_Secrets_No_peeking!.json", "lastedittime": 1746496425, "title": "Suprise!", "abstract": "Congratulations on your discovery of this hidden directory!", "size": 141}]}]}]<br /></span></span>\No newline at end of file<br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">[{"name": "Hi there.md", "path": "desktop_Hi_there.json", "lastedittime": 1746561436, "title": "Hi everyone! \ud83d\udc4b", "abstract": "Hello, I\u2019m hesphoros \ud83d\udc4b", "size": 250}, {"name": "About Git Usage", "path": "", "lastedittime": 1746627524, "size": -1, "children": [{"name": "Git.md", "path": "desktop_About_Git_Usage_Git.json", "lastedittime": 1746627524, "title": "\u5bf9\u6bd4\u8fdc\u7a0b\u4ed3\u5e93\u548c\u672c\u5730\u4ed3\u5e93\u7684\u5dee\u5f02", "abstract": "~~~bash", "size": 345}, {"name": "assets", "path": "", "lastedittime": 1746606095, "size": -1, "children": []}]}, {"name": "About This Blog", "path": "", "lastedittime": 1746496425, "size": -1, "children": [{"name": "Some Secrets", "path": "", "lastedittime": 1746496425, "size": -1, "children": [{"name": "No peeking!.md", "path": "desktop_About_This_Blog_Some_Secrets_No_peeking!.json", "lastedittime": 1746496425, "title": "Suprise!", "abstract": "Congratulations on your discovery of this hidden directory!", "size": 141}]}]}, {"name": "About Typora", "path": "", "lastedittime": 1746628615, "size": -1, "children": [{"name": "PicGo and typro.md", "path": "desktop_About_Typora_PicGo_and_typro.json", "lastedittime": 1746628615, "title": "github+ Picgo", "abstract": "\u672c\u6587\u5c06\u4ecb\u7ecd\u5982\u4f55\u4f7f\u7528Picgo\u5728typora\u4e2d\u5b9e\u73b0\u4e0a\u4f20\u670d\u52a1", "size": 1980}, {"name": "assets", "path": "", "lastedittime": 1746628432, "size": -1, "children": []}]}]<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
@@ -2360,14 +2360,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 May 2025, 18:16:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 May 2025, 19:13:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
