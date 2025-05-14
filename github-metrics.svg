@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2902" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2740" class="large">
     <defs>
         <style/>
     </defs>
@@ -1860,7 +1860,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        887
+                                        889
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2383,7 +2383,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">05e6e289</span>
-                            <span class="code">public/desktop_Algorithm_1-一维前缀和与差分.json</span>
+                            <span class="code">public/desktop_Algorithm_0-输入输出.json</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--0</span>
@@ -2394,7 +2394,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">{"data": "# \u524d\u7f00\u548c\u5b9a\u4e49\n\n\u5bf9\u4e8e\u4e00\u4e2a\u957f\u5ea6\u4e3an\u7684\u6570\u7ec4a\uff0c\u5b9a\u4e49\uff1a\n$$\n\\text{prefix}_i = \\sum_{j=1}^{i} a_j\n$$\n\u9012\u63a8\u5173\u7cfb\u4e3a\uff1a\n\n$$\n\\text{prefix}_i = \\text{prefix}_{i-1} + a_i\n$$\n\n\n**\u5f02\u6216**\u4e5f\u6ee1\u8db3\u524d\u7f00\u548c\u6027\u8d28\uff0c\u5373\u6211\u4eec\u53ef\u4ee5\u5b9a\u4e49\u524d\u7f00\u5f02\u6216prexor\u4e3a\uff1a\n\n\u8bbe\u5f02\u6216\u524d\u7f00\u548c\u4e3a\uff1a\n$$\n\\text{prexor}_i = \\bigoplus_{j=1}^{i} a_j\n$$\n\n\u9012\u63a8\u5173\u7cfb\u4e3a\uff1a\n\n$$\n\\text{prexor}_i = \\text{prexor}_{i-1} \\oplus a_i\n$$\n\ud83d\udccc **\u533a\u95f4\u548c\u8ba1\u7b97\u516c\u5f0f\uff08\u95ed\u533a\u95f4 [l, r]\uff09**\n\n\u5982\u679c\u5df2\u7ecf\u6709\u524d\u7f00\u548c\u6570\u7ec4 \\( s \\)\uff0c\u5219\u6570\u7ec4\u533a\u95f4 \\([l, r]\\) \u7684\u548c\u4e3a\uff1a\n\n- \u5f53 \\( l &gt; 0 \\) \u65f6\uff1a\n  \n  $$\n  \\text{sum}_{l,r} = s[r] - s[l-1]\n  $$\n\n- \u5f53 \\( l = 0 \\) \u65f6\uff1a\n\n  $$\n  \\text{sum}_{0,r} = s[r]\n  $$\n\n\n\nexample:\n\n![image-20250513161303420](https://cdn.jsdelivr.net/gh/hesphoros/blogimages@main/img/image-20250513161303420.png)\n\n\n\n\n\n# \u5dee\u5206\u6570\u7ec4\n\n## \u5dee\u5206\u6570\u7ec4\u7684\u5b9a\u4e49\n\n\u8bbe\u539f\u6570\u7ec4\u4e3a \n$$\n( a = [a_1, a_2, \\dots, a_n] \\\n$$\n\u5219\u5176\u5dee\u5206\u6570\u7ec4 \\( d \\) \u5b9a\u4e49\u4e3a\uff1a\n$$\nd_1 = a_1 \\\\\nd_i = a_i - a_{i-1} \\quad (2 \\leq i \\leq n)\n$$\n\n\u5373\uff1a\n\n$$\nd_i = a_i - a_{i-1}\n$$\n\n---\n\n### \u2705 \u5dee\u5206\u6570\u7ec4\u7684\u4e24\u4e2a\u6027\u8d28\n\n1. **\u539f\u6570\u7ec4\u8fd8\u539f\u516c\u5f0f\uff08\u901a\u8fc7\u5dee\u5206\u524d\u7f00\u548c\u6062\u590d\u539f\u6570\u7ec4\uff09**\uff1a\n\n   $$\n   a_i = \\sum_{j=1}^{i} d_j = a_1 + \\sum_{j=2}^{i} d_j\n   $$\n\n   \u6216\u9012\u63a8\u5f62\u5f0f\uff1a\n\n   $$\n   a_i = a_{i-1} + d_i\n   $$\n\n2. **\u533a\u95f4\u52a0\u6cd5\u7684\u7b49\u6548\u64cd\u4f5c\uff08\u7528\u4e8e\u533a\u95f4\u66f4\u65b0\uff09**\uff1a\n\n   \u82e5\u5c06\u533a\u95f4 \\([l, r]\\) \u5185\u7684\u6240\u6709\u5143\u7d20\u52a0\u4e0a\u67d0\u4e2a\u6570 \\(x\\)\uff0c\u53ea\u9700\u5bf9\u5dee\u5206\u6570\u7ec4\u8fdb\u884c\u5982\u4e0b\u64cd\u4f5c\uff1a\n\n   $$\n   d_l += x \\\\\n   d_{r+1} -= x \\quad (\\text{\u82e5 } r + 1 \\leq n)\n   $$\n\n   \u6700\u540e\u5bf9\u5dee\u5206\u6570\u7ec4\u6c42\u524d\u7f00\u548c\u5373\u53ef\u6062\u590d\u66f4\u65b0\u540e\u7684\u539f\u6570\u7ec4\u3002\n\n\n\n\n\n# \u5173\u7cfb\n\n## \ud83d\udd17 \u5dee\u5206\u6570\u7ec4\u3001\u539f\u6570\u7ec4\u3001\u524d\u7f00\u548c\u6570\u7ec4\u4e4b\u95f4\u7684\u5173\u7cfb\n\n\u8bbe\uff1a\n\n- \u539f\u6570\u7ec4\u4e3a\uff1a\\( a = [a_1, a_2, \\dots, a_n] \\)\n- \u5dee\u5206\u6570\u7ec4\u4e3a\uff1a\\( d \\)\n- \u524d\u7f00\u548c\u6570\u7ec4\u4e3a\uff1a\\( s \\)\n\n---\n\n### \u2705 \u5dee\u5206\u6570\u7ec4\u4e0e\u539f\u6570\u7ec4\u7684\u5173\u7cfb\n\n\u5dee\u5206\u6570\u7ec4\u5b9a\u4e49\u4e3a\uff1a\n\n$$\nd_1 = a_1 \\\\\nd_i = a_i - a_{i-1} \\quad (2 \\leq i \\leq n)\n$$\n\n\u7531\u6b64\u6062\u590d\u539f\u6570\u7ec4\uff08\u5bf9\u5dee\u5206\u6570\u7ec4\u6c42\u524d\u7f00\u548c\uff09\uff1a\n\n$$\na_i = \\sum_{j=1}^{i} d_j\n$$\n\n---\n\n### \u2705 \u539f\u6570\u7ec4\u4e0e\u524d\u7f00\u548c\u6570\u7ec4\u7684\u5173\u7cfb\n\n\u524d\u7f00\u548c\u6570\u7ec4\u5b9a\u4e49\u4e3a\uff1a\n\n$$\ns_i = \\sum_{j=1}^{i} a_j\n$$\n\n\u5373\u9012\u63a8\u5f62\u5f0f\uff1a\n\n$$\ns_i = s_{i-1} + a_i\n$$\n\n---\n\n### \u2705 \u5dee\u5206\u6570\u7ec4\u4e0e\u524d\u7f00\u548c\u6570\u7ec4\u7684\u5173\u7cfb\uff08\u95f4\u63a5\uff09\n\n\u7531\uff1a\n\n$$\na_i = \\sum_{j=1}^{i} d_j\n$$\n\n\u518d\u4ee3\u5165\u524d\u7f00\u548c\u516c\u5f0f\uff1a\n\n$$\ns_i = \\sum_{k=1}^{i} a_k = \\sum_{k=1}^{i} \\left( \\sum_{j=1}^{k} d_j \\right)\n$$\n\n\u56e0\u6b64\uff1a\n\n$$\ns_i = \\sum_{j=1}^{i} (i - j + 1) \\cdot d_j\n$$\n\n\u8fd9\u4e2a\u5173\u7cfb\u66f4\u590d\u6742\uff0c\u4e00\u822c\u4e0d\u76f4\u63a5\u4f7f\u7528\uff0c\u4f46\u5728\u67d0\u4e9b\u6570\u5b66\u9898\u4e2d\u6709\u7528\u3002\n\n---\n\n"}<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">{"data": "# \u8f93\u5165\u8f93\u51fa\n\n# scanf  printf\n\n- `scanf`\u548c`printf`\uff1a\u9002\u5408\u683c\u5f0f\u5316\u8f93\u51fa\uff0c\u901f\u5ea6\u8f83\u5feb\u3002\n- \u4e0d\u80fd\u53d6\u6d88\u540c\u6b65\u6d41\n\n# cin cout\n\n- \u65b9\u6cd5\u7075\u6d3b\uff0c\u53d6\u6d88\u540c\u6b65\u6d41\u540e\u901f\u5ea6\u4e5f\u8f83\u5feb\n\n~~~cpp\nios::sync_with_stdio(0), cin.tie(0), cout.tie(0); // \u53d6\u6d88\u540c\u6b65\u6d41\n~~~\n\n- std::endl \n  - \u4f1a\u5f3a\u5236\u5237\u65b0\u7f13\u51b2\u533a\n\n# \u5b9a\u4e49\u6570\u7ec4\n\n\u5c3d\u91cf\u4e0d\u8981\u4f7f\u7528#define\n\n~~~c\n#define N (1e5 + 10)\nconst int N = 1e5 + 10\n~~~\n\n\n\n# \u5f00\u6570\u7ec4\n\n- \u5728main\u5b9a\u4e49\u6570\u7ec4\u5f00\u6808\u7a7a\u95f4\n  - \u6808\u7a7a\u95f4\u5927\u5c0f\u4e00\u822c\u4e3a2M 4M 8M\n  - \u662f\u5426\u521d\u59cb\u5316\uff08\u4e0e\u7f16\u8bd1\u5668\u6709\u5173\uff09\n\n- \u4e00\u822c\u5f00\u5168\u5c40\n\n"}<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
@@ -2409,14 +2409,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #16F174">Your fortune: （　´_ゝ`）ﾌｰﾝ </b>
+                            <b style="color: #E7890C">Your fortune: Good Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 May 2025, 22:16:24 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 May 2025, 23:17:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
