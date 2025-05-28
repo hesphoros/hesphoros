@@ -34,11 +34,8 @@ jobs:
           config_display: large
           config_timezone: Asia/Shanghai
           plugin_achievements: yes
+          plugin_achievements_only: polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager
           plugin_achievements_display: compact
-          plugin_achievements_only: >-
-            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-            scripter, packager, explorer, infographile, manager
-          plugin_achievements_secrets: yes
           plugin_achievements_threshold: X
           plugin_activity: yes
           plugin_activity_days: 14
@@ -83,15 +80,17 @@ jobs:
           plugin_lines_repositories_limit: 3
           plugin_lines_sections: base
           plugin_skyline: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
+          plugin_skyline_year: 2024
+          plugin_skyline_frames: 6
+          plugin_skyline_quality: 1
           plugin_skyline_settings: |
             {
-              "url": "https://skyline.github.com/${login}/${year}",
-              "ready": "[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')",
-              "wait": 1,
-              "hide": "button, footer, a"
+              "url": "https://honzaap.github.io/GithubCity?name=${login}&year=${year}",
+              "ready": "[...document.querySelectorAll('.display-info span')].map(span => span.innerText).includes('${login}')",
+              "wait": 4,
+              "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
             }
+
           plugin_starlists: yes
           plugin_starlists_languages: yes
           plugin_starlists_limit: 3
@@ -100,14 +99,9 @@ jobs:
           plugin_starlists_shuffle_repositories: yes
           plugin_stars: yes
           plugin_stars_limit: 3
-          plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          plugin_steam_achievements_limit: 2
-          plugin_steam_games_limit: 1
-          plugin_steam_playtime_threshold: 2
-          plugin_steam_recent_games_limit: 1
-          plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: 76561199533748972
+          plugin_steam: yes
+          plugin_steam_user: "76561199533748972" # Steam 用户 ID
           plugin_support: yes
           plugin_topics: yes
           plugin_topics_limit: 15
