@@ -119,4 +119,4 @@ jobs:
           plugin_wakatime_repositories_visibility: public # 显示的仓库类型（public 或 all）
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com # WakaTime 的 URL
-          plugin_wakatime_user: hesphoros
+          plugin_wakatime_user: hesphoros # WakaTime 用户名
