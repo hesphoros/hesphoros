@@ -85,10 +85,10 @@ jobs:
           plugin_skyline_quality: 0.5
           plugin_skyline_settings: |
             {
-              "url": "https://honzaap.github.io/GithubCity?name=${login}&year=${year}",
-              "ready": "[...document.querySelectorAll('.display-info span')].map(span => span.innerText).includes('${login}')",
-              "wait": 4,
-              "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
+              "url": "https://skyline.github.com/${login}/${year}",
+              "ready": "[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')",
+              "wait": 1,
+              "hide": "button, footer, a"
             }
 
           plugin_starlists: yes
@@ -116,7 +116,7 @@ jobs:
           plugin_wakatime_days: 7
           plugin_wakatime_languages_other: yes
           plugin_wakatime_limit: 5
-          plugin_wakatime_repositories_visibility: public
+          plugin_wakatime_repositories_visibility: 公共
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: hesphoros
