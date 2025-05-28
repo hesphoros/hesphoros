@@ -34,8 +34,6 @@ jobs:
           config_display: large
           config_timezone: Asia/Shanghai
           plugin_achievements: yes
-          plugin_achievements_only: >-
-          plugin_achievements_display: compact
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
@@ -79,7 +77,7 @@ jobs:
           plugin_lines_repositories_limit: 3
           plugin_lines_sections: base
           plugin_skyline: yes
-          plugin_skyline_year: 2024
+          plugin_skyline_year: 2025
           plugin_skyline_frames: 6
           plugin_skyline_quality: 1
           plugin_skyline_settings: |
@@ -101,13 +99,13 @@ jobs:
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
           plugin_steam_user: "76561199533748972" # Steam 用户 ID
-          plugin_steam_games_limit : 0 # 限制显示的游戏数量
-          plugin_steam_recent_games_limit : 0 # 限制显示的最近游戏数量
-          plugin_steam_achievements_limit : 5 # 限制显示的成就数量
+          plugin_steam_games_limit : 5 # 限制显示的游戏数量
+          plugin_steam_recent_games_limit : 5 # 限制显示的最近游戏数量
+          plugin_steam_achievements_limit : 3 # 限制显示的成就数量
 
           plugin_support: yes
           plugin_topics: yes
-          plugin_topics_limit: 50
+          plugin_topics_limit: 30
           plugin_topics_mode: icons
           plugin_topics_sort: random
           plugin_traffic: yes
