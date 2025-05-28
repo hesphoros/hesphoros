@@ -26,7 +26,6 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
-
           # Options
           user: hesphoros
           template: classic
@@ -112,10 +111,11 @@ jobs:
           plugin_topics_sort: random
           plugin_traffic: yes
           plugin_wakatime: yes
-          plugin_wakatime_days: 7
-          plugin_wakatime_languages_other: yes
-          plugin_wakatime_limit: 5
-          plugin_wakatime_repositories_visibility: public
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_days: 7  # Number of days to display
+          plugin_wakatime_languages_other: yes # 是否显示“其他”语言
+          plugin_wakatime_limit: 5  # 限制显示的项目数量
+          plugin_wakatime_repositories_visibility: public # 显示的仓库类型（public 或 all）
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_url: https://wakatime.com # WakaTime 的 URL
           plugin_wakatime_user: hesphoros
