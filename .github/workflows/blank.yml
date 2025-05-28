@@ -32,7 +32,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
-          config_display: columns
+          config_display: large
           config_timezone: Asia/Shanghai
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -90,7 +90,6 @@ jobs:
               "wait": 1,
               "hide": "button, footer, a"
             }
-
           plugin_starlists: yes
           plugin_starlists_languages: yes
           plugin_starlists_limit: 2
