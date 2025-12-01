@@ -36,7 +36,7 @@ jobs:
           config_timezone: Asia/Shanghai
           plugin_achievements: yes
           plugin_activity: yes
-          plugin_activity_days: 14
+          plugin_activity_days: 7
           plugin_activity_filter: all
           plugin_activity_limit: 4
           plugin_activity_load: 300
@@ -52,7 +52,7 @@ jobs:
           plugin_followup_sections: repositories
           plugin_habits: yes
           plugin_habits_charts_type: chartist
-          plugin_habits_days: 14
+          plugin_habits_days: 7
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
@@ -69,7 +69,7 @@ jobs:
           plugin_languages_limit: 13
           plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
+          plugin_languages_recent_days: 7
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
@@ -100,10 +100,9 @@ jobs:
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
           plugin_steam_user: "76561199533748972" # Steam 用户 ID
-          plugin_steam_sections: recently-played
+          plugin_steam_sections: player
           plugin_steam_achievements_limit: 0
 
-          plugin_support: yes
           plugin_topics: yes
           plugin_topics_limit: 30
           plugin_topics_mode: icons
