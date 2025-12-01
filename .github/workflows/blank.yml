@@ -56,6 +56,6 @@ jobs:
           # plugin_steam_sections: player
 
           # Achievements
-          plugin_achievements: yes
-          plugin_achievements_display: compact
+          # plugin_achievements: yes
+          # plugin_achievements_display: compact
 
