@@ -30,7 +30,7 @@ jobs:
           user: hesphoros
           template: classic
           committer_branch: metrics
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, metadata
           base_indepth: yes
           config_display: large
           config_timezone: Asia/Shanghai
