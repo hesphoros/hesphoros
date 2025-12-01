@@ -29,6 +29,7 @@ jobs:
           # Options
           user: hesphoros
           template: classic
+          committer_branch: metrics
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_display: large
