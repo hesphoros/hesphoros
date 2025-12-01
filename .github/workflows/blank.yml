@@ -26,7 +26,7 @@ jobs:
           config_timezone: Asia/Shanghai
           
           # Base content
-          base: header, activity, community, metadata
+          base: header, community, metadata
           base_indepth: yes
 
           # Languages
