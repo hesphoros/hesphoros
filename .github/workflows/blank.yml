@@ -11,8 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    environment:
-      name: production
     steps:
       - uses: lowlighter/metrics@latest
         with:
